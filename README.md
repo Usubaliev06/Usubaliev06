@@ -9,9 +9,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolqwebs" alt="coolqwebs" /></a>
 </p> -->
 
-<p align="left"> 
-  <a href="https://twitter.com/coolqwebs" target="blank"><img src="https://img.shields.io/twitter/follow/coolqwebs?logo=twitter&style=for-the-badge" alt="coolqwebs" /></a> 
-</p>
+
 
 - 🌱 I’m currently learning **React **
 
